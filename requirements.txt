@@ -1,0 +1,2 @@
+django-spirit
+-e git+https://github.com/vsudilov/Spirit.git#egg=django-spirit

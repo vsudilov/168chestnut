@@ -1,3 +1,9 @@
 *pyc
 *tmp
 *~
+*db3
+*sqlite3
+*venv*
+*media*
+*static*
+*images*
